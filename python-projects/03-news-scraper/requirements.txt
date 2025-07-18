@@ -1,0 +1,18 @@
+# News Scraper Requirements
+
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Data processing
+pandas==2.1.4
+numpy==1.24.3
+
+# Utilities
+python-dateutil==2.8.2
+
+# Optional: For advanced features
+# selenium==4.15.2  # For JavaScript-heavy sites
+# scrapy==2.11.0    # For more complex scraping projects
+# newspaper3k==0.2.8  # Alternative news scraping library
